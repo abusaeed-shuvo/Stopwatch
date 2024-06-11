@@ -1,4 +1,4 @@
-#Stopwatch with Timer 
+## Stopwatch with Timer 
 
 For 7th semester App development Project.
 It has a stopwatch and a timer 
